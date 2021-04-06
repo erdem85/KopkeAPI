@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  },
+  "name": "kopke-api",
+  "version": "1.0.0",
+  "description": "kopke.erdem.ovh",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "kopke",
+    "api",
+    "kopke.erdem.ovh"
+  ],
+  "author": "erdem",
+  "license": "MIT"
+}
