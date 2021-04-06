@@ -1,4 +1,4 @@
-# KopkeAPI
+# KopkeAPI aka Turkish Meme API
 
 *package.json'a import etme,*
 ```js
