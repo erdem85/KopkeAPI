@@ -1,3 +1,5 @@
+# API NO LONGER ONLINE
+
 # KopkeAPI aka Turkish Meme API
 
 *package.json'a import etme,*
